@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="26.0.4">
   <diagram name="Page-1" id="Hbr4fW7oNGjuH58WPVC-">
-    <mxGraphModel dx="5843" dy="1929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5616" dy="1810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -174,11 +174,11 @@
         <mxCell id="i0zj9YfqIQTJ_gesHQt6-114" value="&lt;div&gt;Notification&lt;/div&gt;&lt;div&gt;Management&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-1580" y="-960" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="i0zj9YfqIQTJ_gesHQt6-115" value="Activity Log Management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="i0zj9YfqIQTJ_gesHQt6-115" value="Activity Log Management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-1885" y="-900" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="i0zj9YfqIQTJ_gesHQt6-116" value="&lt;div&gt;Co - Workspace&lt;/div&gt;&lt;div&gt;Manager / Admin&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-1748" y="-1044" width="120" height="50" as="geometry" />
+        <mxCell id="i0zj9YfqIQTJ_gesHQt6-116" value="&lt;div&gt;Co - Workspace Admin&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-1730" y="-1030" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i0zj9YfqIQTJ_gesHQt6-125" value="Booking Management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-1700" y="-733" width="120" height="40" as="geometry" />
@@ -196,7 +196,7 @@
           <mxGeometry x="-1340" y="-800" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZUwX_merdfJP2ijp_3mD-2" value="&lt;div&gt;Co-Workspace : Landmark&lt;br&gt;&lt;/div&gt;&lt;div&gt;Workspace : Krenai&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-3570" y="-720.5" width="170" height="40" as="geometry" />
+          <mxGeometry x="-3580" y="-650" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZUwX_merdfJP2ijp_3mD-3" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -207,7 +207,7 @@
         <mxCell id="ZUwX_merdfJP2ijp_3mD-4" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1970" y="-840" as="sourcePoint" />
-            <mxPoint x="-1160" y="-840" as="targetPoint" />
+            <mxPoint x="-560" y="-840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZUwX_merdfJP2ijp_3mD-5" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -384,6 +384,36 @@
         </mxCell>
         <mxCell id="6uWzE0YaMPxojv6-Itjr-96" value="previlleges" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="6uWzE0YaMPxojv6-Itjr-97">
           <mxGeometry width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6uWzE0YaMPxojv6-Itjr-108" value="Workspace Management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1190" y="-974" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6uWzE0YaMPxojv6-Itjr-109" value="Booking Management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-970" y="-914" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6uWzE0YaMPxojv6-Itjr-110" value="Cabin Management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="-974" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6uWzE0YaMPxojv6-Itjr-111" value="&lt;div&gt;Notification&lt;/div&gt;&lt;div&gt;Management&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-870" y="-974" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6uWzE0YaMPxojv6-Itjr-112" value="Activity Log Management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1110" y="-914" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6uWzE0YaMPxojv6-Itjr-113" value="&lt;div&gt;Co - Workspace&lt;/div&gt;&lt;div&gt;Manager&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1020" y="-1044" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6uWzE0YaMPxojv6-Itjr-114" value="Users Management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-820" y="-914" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6uWzE0YaMPxojv6-Itjr-115" value="Payments" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-730" y="-974" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6uWzE0YaMPxojv6-Itjr-116" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1240" y="-840" as="sourcePoint" />
+            <mxPoint x="-1240" y="-1080" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
