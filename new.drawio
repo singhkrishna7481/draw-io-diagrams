@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="26.0.4">
   <diagram name="Page-1" id="Hbr4fW7oNGjuH58WPVC-">
-    <mxGraphModel dx="5239" dy="1614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6299" dy="2166" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,10 +38,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i0zj9YfqIQTJ_gesHQt6-20" value="&lt;div&gt;&lt;strong&gt;Workspace&lt;/strong&gt;&lt;br&gt;&lt;/div&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-2866" y="-693" width="200" height="280" as="geometry" />
+          <mxGeometry x="-2866" y="-700" width="200" height="293" as="geometry" />
         </mxCell>
-        <mxCell id="i0zj9YfqIQTJ_gesHQt6-21" value="&lt;div&gt;id (PK) : Long&lt;/div&gt;&lt;div&gt;uuid : String&lt;br&gt;&lt;/div&gt;floor_id (FK) &lt;br&gt;name : String&lt;br&gt;address : String&lt;br&gt;gst_number : String&lt;br&gt;&lt;div&gt;contact_email : String&lt;br&gt;&lt;/div&gt;contact_phone : Long&lt;br&gt;&lt;div&gt;industry_type : String&lt;br&gt;&lt;/div&gt;&lt;div&gt;working_hours_start : TimeStamp&lt;br&gt;working_hours_end : TimeStamp&lt;br&gt;&lt;/div&gt;&lt;div&gt;free_cabin_time : Integer&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;created_date : TimeStamp&lt;/div&gt;&lt;div&gt;updated_date : TimeStamp&lt;/div&gt;&lt;div&gt;is_flag : boolean&lt;/div&gt;&lt;div&gt;is_active : boolean&lt;/div&gt;&lt;/div&gt;" style="align=left;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="i0zj9YfqIQTJ_gesHQt6-20" vertex="1">
-          <mxGeometry y="40" width="200" height="240" as="geometry" />
+        <mxCell id="i0zj9YfqIQTJ_gesHQt6-21" value="&lt;div&gt;id (PK) : Long&lt;/div&gt;&lt;div&gt;uuid : String&lt;br&gt;&lt;/div&gt;floor_id (FK) &lt;br&gt;name : String&lt;br&gt;address : String&lt;br&gt;gst_number : String&lt;br&gt;&lt;div&gt;contact_email : String&lt;br&gt;&lt;/div&gt;contact_phone : Long&lt;br&gt;&lt;div&gt;industry_type : String&lt;br&gt;&lt;/div&gt;&lt;div&gt;working_hours_start : TimeStamp&lt;br&gt;working_hours_end : TimeStamp&lt;br&gt;&lt;/div&gt;&lt;div&gt;free_cabin_time : Integer&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;created_date : TimeStamp&lt;/div&gt;&lt;div&gt;updated_date : TimeStamp&lt;/div&gt;&lt;div&gt;&lt;div&gt;user_id (FK)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;is_flag : boolean&lt;/div&gt;&lt;div&gt;is_active : boolean&lt;/div&gt;&lt;/div&gt;" style="align=left;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="i0zj9YfqIQTJ_gesHQt6-20" vertex="1">
+          <mxGeometry y="40" width="200" height="253" as="geometry" />
         </mxCell>
         <mxCell id="i0zj9YfqIQTJ_gesHQt6-26" value="&lt;strong&gt;Co-&lt;/strong&gt;&lt;b&gt;Workspace&lt;/b&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-3290" y="-715" width="190" height="247" as="geometry" />
@@ -88,13 +88,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i0zj9YfqIQTJ_gesHQt6-50" value="&lt;b&gt;Invoice&lt;br&gt;&lt;/b&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-2622" y="-651" width="160" height="110" as="geometry" />
+          <mxGeometry x="-2622" y="-654" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="i0zj9YfqIQTJ_gesHQt6-51" value="&lt;div&gt;id (PK) : Long&lt;br&gt;&lt;/div&gt;creation_date : TimeStamp&lt;br&gt;&lt;div&gt;log_id(FK)&lt;/div&gt;&lt;div&gt;payment_id (FK)&lt;/div&gt;" style="align=left;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="i0zj9YfqIQTJ_gesHQt6-50" vertex="1">
           <mxGeometry y="40" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="i0zj9YfqIQTJ_gesHQt6-56" value="&lt;b&gt;Notification&lt;/b&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-2415" y="-430" width="160" height="150" as="geometry" />
+          <mxGeometry x="-2415" y="-418" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="i0zj9YfqIQTJ_gesHQt6-57" value="&lt;div&gt;id (PK) : Long&lt;br&gt;&lt;/div&gt;header_name : String&lt;br&gt;&lt;div&gt;content : String &lt;br&gt;&lt;/div&gt;&lt;div&gt;time_stamp : TimeStamp&lt;br&gt;&lt;/div&gt;&lt;div&gt;status : String&lt;br&gt;&lt;/div&gt;&lt;div&gt;notification_type : String&lt;br&gt;&lt;/div&gt;&lt;div&gt;user_id(FK)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="i0zj9YfqIQTJ_gesHQt6-56" vertex="1">
           <mxGeometry y="30" width="160" height="120" as="geometry" />
